@@ -1,2 +1,2 @@
 # Survey Form
- a practice sunvey form
+ a practice survey form
